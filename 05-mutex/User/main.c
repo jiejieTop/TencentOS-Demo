@@ -34,6 +34,7 @@ void test_task1(void *Parameter)
         err = tos_mutex_post(&test_mutex_00);
         if (err == K_ERR_NONE)
             printf("task1 mutex post success\r\n");
+        tos_task_delay(2000);
     }
 }
 
