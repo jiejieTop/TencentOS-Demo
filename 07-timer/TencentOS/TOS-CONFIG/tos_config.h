@@ -42,7 +42,7 @@
 
 #define TOS_CFG_CPU_CLOCK               (SystemCoreClock)
 
-#define TOS_CFG_TIMER_AS_PROC           1u
+#define TOS_CFG_TIMER_AS_PROC           0u
 
 #endif
 
