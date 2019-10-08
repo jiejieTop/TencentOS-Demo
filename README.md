@@ -51,7 +51,7 @@
 
 ## 视频教程：
 
-敬请期待...
+- [01-初识TencentOS tiny](https://www.bilibili.com/video/av70478596?from=search&seid=10160676184801585522)
 
 
 ## 相关PPT资料：
